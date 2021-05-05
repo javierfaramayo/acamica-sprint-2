@@ -1,0 +1,33 @@
+.description {
+  background-color: red;
+  color: white;
+  font-size: 5em;
+}
+
+.primary_description {
+  background-color: green;
+  color: white;
+  border-radius: 20px;
+}
+
+.inner_elements {
+  background-color: blue;
+  color: white;
+}
+
+.new_div {
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  color: white;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}

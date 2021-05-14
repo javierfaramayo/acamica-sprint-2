@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+  margin-bottom: 20px;
+}
+
+.navbar {
+  height: 100px;
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.logo {
+  font-weight: bold;
+  text-align: center;
+  padding: 20px 20px;
+  cursor: pointer;
+}
+
+.logo_hover {
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.menu__items {
+  display: flex;
+  font-size: 12px;
+}
+
+.menu__items li {
+  list-style: none;
+  margin: 0 20px;
+}
+
+#title {
+  margin: 40px;
+}

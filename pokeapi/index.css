@@ -1,0 +1,19 @@
+.pokemons {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.pokemon__selected {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+
+.hidden {
+  display: none;
+}
